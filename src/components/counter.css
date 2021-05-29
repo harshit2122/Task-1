@@ -1,0 +1,20 @@
+.Counter {
+    display:flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+    justify-content: space-evenly;
+}
+
+.Counter_number {
+    border:2px solid lightblue;
+    background-color: lightblue;
+    padding: 75px 75px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius: 15px;
+}
+
+.Counter_Button {
+    background-color: #5bc0de;
+}
